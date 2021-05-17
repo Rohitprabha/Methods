@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\obj\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\obj\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\obj\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\bin\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.exe
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\bin\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.deps.json
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\bin\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\bin\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\bin\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.dll
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\bin\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.pdb
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\obj\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.dll
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\obj\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.pdb
+C:\Users\Rohit Dasari\source\repos\Ref_Keyword_and_Out_Keyword\obj\Debug\netcoreapp3.1\Ref_Keyword_and_Out_Keyword.genruntimeconfig.cache
