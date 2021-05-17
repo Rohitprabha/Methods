@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\bin\Debug\netcoreapp3.1\Recursion_Method.exe
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\bin\Debug\netcoreapp3.1\Recursion_Method.deps.json
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\bin\Debug\netcoreapp3.1\Recursion_Method.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\bin\Debug\netcoreapp3.1\Recursion_Method.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\bin\Debug\netcoreapp3.1\Recursion_Method.dll
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\bin\Debug\netcoreapp3.1\Recursion_Method.pdb
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\obj\Debug\netcoreapp3.1\Recursion_Method.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\obj\Debug\netcoreapp3.1\Recursion_Method.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\obj\Debug\netcoreapp3.1\Recursion_Method.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\obj\Debug\netcoreapp3.1\Recursion_Method.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\obj\Debug\netcoreapp3.1\Recursion_Method.dll
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\obj\Debug\netcoreapp3.1\Recursion_Method.pdb
+C:\Users\Rohit Dasari\source\repos\Recursion_Method\obj\Debug\netcoreapp3.1\Recursion_Method.genruntimeconfig.cache
